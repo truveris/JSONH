@@ -1,4 +1,4 @@
-import json
+import simplejson as json
 
 """
 Copyright (C) 2011 by Andrea Giammarchi, @WebReflection
